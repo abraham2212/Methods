@@ -1,0 +1,5 @@
+C:\Users\Hp Elitebook\Desktop\Service\service #sarp\sarp methods\sarp methods\obj\Debug\net6.0\sarp methods.csproj.AssemblyReference.cache
+C:\Users\Hp Elitebook\Desktop\Service\service #sarp\sarp methods\sarp methods\obj\Debug\net6.0\sarp methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Elitebook\Desktop\Service\service #sarp\sarp methods\sarp methods\obj\Debug\net6.0\sarp methods.AssemblyInfoInputs.cache
+C:\Users\Hp Elitebook\Desktop\Service\service #sarp\sarp methods\sarp methods\obj\Debug\net6.0\sarp methods.AssemblyInfo.cs
+C:\Users\Hp Elitebook\Desktop\Service\service #sarp\sarp methods\sarp methods\obj\Debug\net6.0\sarp methods.csproj.CoreCompileInputs.cache
